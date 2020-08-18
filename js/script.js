@@ -172,6 +172,7 @@ function updateNav(element){
 
 // Contact form validation
 
+/**
 
 const form = document.getElementById('contact-form');
 const name = document.getElementById('sendername');
@@ -239,7 +240,7 @@ function isEmail(email){
    return /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(email);
 }
 
-
+*/
 // Contact form 
 
 window.formbutton=window.formbutton||function(){(formbutton.q=formbutton.q||[]).push(arguments)};

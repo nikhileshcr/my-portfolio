@@ -1104,14 +1104,12 @@ body.dark .section{
 	background-color: #151515;
 }
 body.dark .contact .contact-form .form-item .form-control,
-body.dark .project .project-item-inner .project-info,
 body.dark .skill .skill-item .skill-item-inner,
 body.dark .about .about-content .timeline,
 body.dark .aside{
 	background-color: #222222;
 }
 body.dark .contact .contact-info-item h4,
-body.dark .project .project-item-inner .project-info .project-title,
 body.dark .certificate .certificate-filter button,
 body.dark .skill .skill-item .skill-item-inner h4,
 body.dark .about .about-content .timeline .timeline-title,
@@ -1127,8 +1125,6 @@ body.dark .aside .nav li a{
 }
 body.dark .contact .contact-form .form-item .form-control,
 body.dark .contact .contact-info-item p,
-body.dark .project .project-item-inner .project-info .project-tags,
-body.dark .project .project-item-inner .project-info .project-description,
 body.dark .skill .skill-item .skill-item-inner p,
 body.dark .about .about-content .timeline .timeline-text,
 body.dark .about .about-content .timeline .timeline-date,
@@ -1140,7 +1136,6 @@ body.dark .home .intro p{
 }
 body.dark .aside,
 body.dark .contact .contact-form .form-item .form-control,
-body.dark .project .project-item-inner,
 body.dark .certificate .certificate-item-inner,
 body.dark .skill .skill-item .skill-item-inner,
 body.dark .about .about-content .timeline,
